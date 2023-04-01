@@ -43,6 +43,7 @@
 
 //table of the number
 for(var i=1;i<=10;i++){
+    //mention the table
     var tableOf = 8;    
     console.log(tableOf + '*'+i+'='+(tableOf*i));
 
