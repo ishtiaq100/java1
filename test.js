@@ -45,7 +45,7 @@
 for(var i=1;i<=10;i++){
     //mention the table
     var tableOf = 8; 
-    //the data of the table is here   
+    //the data of the table is here  the data is here  
     console.log(tableOf + '*'+i+'='+(tableOf*i));
 
 
